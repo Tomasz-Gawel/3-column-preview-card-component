@@ -1,0 +1,37 @@
+
+h1{
+  font-family:"Big Shoulders Display"sans-serif;
+  font-weight: 700;
+}
+
+p{
+
+font-family:"Lexend Deca",sans-serif;
+font-weight: 400;
+}
+
+.flex-container{
+margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+text-align:center;
+
+}
+
+.cart1{
+
+width: 300px;
+height: 500px;
+  background-color: #EEB77C;
+
+}
+.cart2{
+  font-family:Big Shoulders Display;
+width: 300px;
+  background-color:#006970;
+}
+.cart3{
+  width: 300px;
+  background-color:#004241;
+}
